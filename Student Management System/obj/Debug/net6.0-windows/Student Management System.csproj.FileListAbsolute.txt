@@ -1,0 +1,18 @@
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Management System.exe
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Management System.deps.json
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Management System.runtimeconfig.json
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Management System.dll
+C:\Users\miles\source\repos\Student Management System\bin\Debug\net6.0-windows\Student Management System.pdb
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Management System.csproj.GenerateResource.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Management System.AssemblyInfoInputs.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Management System.AssemblyInfo.cs
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Management System.dll
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\refint\Student Management System.dll
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Management System.pdb
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student Management System.genruntimeconfig.cache
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\ref\Student Management System.dll
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student_Management_System.Presentation_Layer.Login.resources
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student_Management_System.Main.resources
+C:\Users\miles\source\repos\Student Management System\obj\Debug\net6.0-windows\Student_Management_System.Properties.Resources.resources
